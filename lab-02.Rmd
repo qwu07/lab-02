@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Code breakers: Liu fangyao, estherwang, Yicheng Jin, Queency Wu, Hong ding and Yiran Li"
+author: "Team Name: LiuFangyao, User2, User3,Queency Wu, User5 and User6"
 date: "`r Sys.Date()`"
 output: html_document
 ---
